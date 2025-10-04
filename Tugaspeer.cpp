@@ -79,7 +79,7 @@ int main() {
             }
             switchPlayer();
         } else {
-            cout << "Gerakan tidak valid. Coba lagi." << endl;
+            cout << "Gerakan tidak valid." << endl;
         }
     }
     return 0;
